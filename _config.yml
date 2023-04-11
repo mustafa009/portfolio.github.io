@@ -2,7 +2,7 @@
 title: Lorenzo Carnevale
 description: Assistant Professor at University of Messina
 
-baseurl: "" #name of GitHub repository
+baseurl: "portfolio.github.io" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: lcarnevale@unime.it
 
